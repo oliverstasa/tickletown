@@ -6,4 +6,6 @@ Art ... Ester Kasalová<br>
 Code ... Oliver Staša<br>
 Sound ... Ondra Lamač<br>
 <br>
+# Play Here:
+https://106procent.cz/cowboy<br>
 *optimized for PC
